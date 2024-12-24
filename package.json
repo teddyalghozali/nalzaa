@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "postcss-cli": "^11.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-particles": "^2.10.1",
@@ -20,10 +21,15 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.20",
     "gh-pages": "^5.0.0",
-    "postcss": "^8.4.22",
-    "tailwindcss": "^3.3.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "This is a gimmick webpage that features a jumpscare effect triggered by a button click. The project is a refactored version of an [earlier project I made](https://github.com/ReemanS/simple-js) when I didn't have much experience in writing code, now implemented using React.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
